@@ -1,0 +1,7 @@
+String name, 
+int damage, 
+int accuracy, 
+int range, 
+int levelRequired, 
+int maxUses, 
+int cooldownRounds
